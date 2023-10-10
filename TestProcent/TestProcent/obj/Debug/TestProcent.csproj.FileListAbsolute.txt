@@ -1,0 +1,16 @@
+C:\Users\shpak\source\repos\TestProcent\TestProcent\bin\Debug\TestProcent.exe.config
+C:\Users\shpak\source\repos\TestProcent\TestProcent\bin\Debug\TestProcent.exe
+C:\Users\shpak\source\repos\TestProcent\TestProcent\bin\Debug\TestProcent.pdb
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.csproj.AssemblyReference.cache
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.Form1.resources
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.Form2.resources
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.Properties.Resources.resources
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.csproj.GenerateResource.cache
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.csproj.CoreCompileInputs.cache
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.exe
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.pdb
+C:\Users\shpak\source\repos\TestProcent\TestProcent\bin\Debug\Stavka1.0.pdb
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.csproj.CopyComplete
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.Form3.resources
+C:\Users\shpak\source\repos\TestProcent\TestProcent\obj\Debug\TestProcent.Form4.resources
+C:\Users\shpak\source\repos\TestProcent\TestProcent\bin\Debug\Stavka1.0.dll

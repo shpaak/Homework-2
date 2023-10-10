@@ -1,0 +1,5 @@
+C:\Users\shpak\source\repos\stavka1.0\stavka1.0\bin\Debug\stavka1.0.dll
+C:\Users\shpak\source\repos\stavka1.0\stavka1.0\bin\Debug\stavka1.0.pdb
+C:\Users\shpak\source\repos\stavka1.0\stavka1.0\obj\Debug\stavka1.0.csproj.CoreCompileInputs.cache
+C:\Users\shpak\source\repos\stavka1.0\stavka1.0\obj\Debug\stavka1.0.dll
+C:\Users\shpak\source\repos\stavka1.0\stavka1.0\obj\Debug\stavka1.0.pdb
